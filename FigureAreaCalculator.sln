@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FigureAreaCalculatorTests",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FigureAreaCalculatorLibrary", "FigureAreaCalculatorLibrary\FigureAreaCalculatorLibrary.csproj", "{E661D7C6-7B84-405E-B6F9-7F774D98D780}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AC635EAA-48F3-4A78-B766-1CD4FD973D8F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6512EB0F-38FF-49F6-A9B6-2B6D259C0A7F}"
 	ProjectSection(SolutionItems) = preProject
-		..\SQLQuery.sql = ..\SQLQuery.sql
+		SQLQuery.sql = SQLQuery.sql
 	EndProjectSection
 EndProject
 Global
